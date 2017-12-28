@@ -1,0 +1,18 @@
+{
+    "name": "kouosl/cevrimicisinav2",
+    "description": "Yii2 KouOsl cevrimicisinav2 Module Integration",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "yii 2", "cevrimicisinav2s", "cevrimicisinav2", "module", "modules"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Ali Çakırer",
+            "email": "alickrr11@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "kouosl\\cevrimicisinav2\\": ""
+        }
+    }
+}
